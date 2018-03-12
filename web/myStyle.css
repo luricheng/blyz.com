@@ -1,0 +1,77 @@
+body{
+    color: #a8a9a5;
+    background-color: #f9f9f9;
+}
+nav{
+    height: 30px;
+    color: #a8a9a5;
+    background-color: #fafafa;
+    text-align: right;
+    box-shadow: 2px 2px 2px #d1d1d1;
+}
+
+div.vline{
+    width: 1px;
+    background-color: #e9e9e9;
+}
+
+li.horizen{
+    display: inline;
+    vertical-align: middle;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.title{
+    box-shadow: 8px 8px 8px #d1d1d1;
+    width: 100%;
+}
+
+.floor{
+    bottom: 0px;
+    position: absolute;
+    width: 100%;
+    background-color:white;
+    box-shadow: inset 0px 1px 0px #d1d1d1;
+}
+
+a{
+    text-decoration: none;
+    color: #a8a9a5;
+}
+
+.round{
+    border: 30px solid white;
+    border-radius: 10px;
+}
+
+form{
+    background-color: white;
+}
+
+input.lineEdit{
+    width: 220px;
+}
+
+td.right{
+    text-align: right;
+}
+
+td.left{
+    text-align: left;
+}
+
+h5{
+    display: inline;
+}
+
+h6{
+    display: inline;
+}
+
+button{
+    border: solid;
+    margin: 0px;
+}
